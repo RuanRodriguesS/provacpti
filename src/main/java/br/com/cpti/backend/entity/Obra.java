@@ -22,7 +22,6 @@ public class Obra {
 	private LocalDate dataFim;
 	private Double totalGasto;
 	
-	
 	public Long getId() {
 		return id;
 	}
